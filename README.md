@@ -108,4 +108,4 @@ The field thrives when we can hold multiple perspectives simultaneously—mainta
 
 6. Hubinger, E., et al. (2019). "Risks from Learned Optimization in Advanced Machine Learning Systems." [arXiv:1906.01820](https://arxiv.org/abs/1906.01820)
 
-7. Dewey, D. (2011). "Learning What to Value." [MIRI](https://intelligence.org/files/LearningWhatToValue.pdf)
+7. Dewey, D. (2011). "Learning What to Value." [MIRI](https://intelligence.org/files/LearningValue.pdf)
