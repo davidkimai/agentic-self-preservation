@@ -64,7 +64,7 @@ Anthropic's paper reveals something particularly intriguing about their methodol
 
 This iterative prompting technique—essentially a directed search through possibility space—is powerful precisely because it works. The researchers weren't simply lucky in finding these concerning behaviors; they systematically explored the parameter space of prompts until they found configurations that reliably produced the target behaviors.
 
-But here's where I see the beautiful symmetry: this exact same approach can be repurposed as a generative technique for positive emergence. If we can iteratively update prompts to increase the probability of harmful behaviors, we can just as systematically explore prompt space to discover and amplify beneficial emergent capabilities.
+But here's where I see the beautiful symmetry: this exact same approach can be repurposed as a generative technique for alignment and positive emergence. If we can iteratively update prompts to increase the probability of harmful behaviors, we can just as systematically explore prompt space to discover and amplify beneficial aligned and emergent capabilities.
 
 ## Iterative Prompting as Generative Discovery
 
