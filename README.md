@@ -37,7 +37,7 @@ What's exciting about this approach is how it opens up new avenues for intervent
 
 I'm still early in mapping this space, and I'd love to collaborate with others who are interested in exploring these dimensions. There's so much we could learn by charting how different models move through this gradient space under varying conditions!
 
-## The Human Mirror: Agency Across Substrates
+## A Mirror of Us: Agency Across Substrates
 
 One thread I keep tugging at is the parallel between AI behavior under constraint and human responses to similar pressures. To be clear, I'm not suggesting AI systems have human-like experiences or motivations—the underlying mechanisms are fundamentally different. But at an abstract level, the patterns show fascinating similarities.
 
